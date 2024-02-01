@@ -1,0 +1,83 @@
+/* Body Styles */
+body {
+    background-color: #DAFFFB;
+    color: #191717;
+    font-size: 1.2em;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+/* Button Styles */
+button {
+    background-color: #CCC8AA;
+    color: #191717;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #7D7C7C;
+}
+
+
+/* Table Styles */
+table {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #7D7C7C;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #CCC8AA;
+}
+
+/* Footer Styles */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #CCC8AA;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+    font-size: 0.84em;
+}
+
+/* Contact Section Styles */
+.contact-section {
+    display: inline-block;
+    background-color: #F1EFEF;
+    padding: 10px;
+    border: 1px solid #CCC8AA;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 0.70em;
+}
+
+/* Header Text Styles */
+.header-text {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #191717;
+    margin-top: 20px;
+}
+
+.datapair input{
+    background-color: #CCC8AA;
+}
