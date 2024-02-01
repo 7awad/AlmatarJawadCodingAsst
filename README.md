@@ -1,5 +1,5 @@
 ## Introduction
-This project presents a simple yet functional Broadway ticket booking web application, crafted in PHP and designed for local development using XAMPP. The application enables users to interact with a MySQL database, allowing them to create a table, add show records, and view booking data.
+This project presents a functional Broadway ticket booking web application, crafted in PHP and designed for local development using XAMPP. The application enables users to interact with a MySQL database, allowing them to create a table, add show records, and view booking data.
 
 ![img1](https://github.com/7awad/ticket-booking-web-application/assets/123418692/14829a46-0604-42cc-818b-ce2ac95bd9a2)
 ![img3](https://github.com/7awad/ticket-booking-web-application/assets/123418692/c929a465-e31f-401d-a1db-ac2cc6e121a5)
