@@ -5,7 +5,6 @@ This project presents a functional Broadway ticket booking web application, craf
 ![img3](https://github.com/7awad/ticket-booking-web-application/assets/123418692/c929a465-e31f-401d-a1db-ac2cc6e121a5)
 ![img2](https://github.com/7awad/ticket-booking-web-application/assets/123418692/f29fbbb0-651e-40e1-95a8-095e3719899d)
 
-
 ## Files
 
 ### `asstInclude.php`
